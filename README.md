@@ -1,2 +1,2 @@
-# jypyter-notebook-test
+# jupyter-notebook-test
 test
